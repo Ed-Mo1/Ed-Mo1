@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Eyad Muhammad Banner"/>
+<img src="banner/banner.png" width="100%" alt="Eyad Muhammad Banner"/>
 
 # Hi 👋 I'm Eyad Muhammad
 
