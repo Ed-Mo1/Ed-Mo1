@@ -24,15 +24,19 @@
 
 ## 🚀 About Me
 
-💡 I'm a **Business Information Systems (BIS) Student** passionate about transforming data into actionable business insights.
+## 🚀 About Me
 
-📊 Currently developing expertise in **Data Analytics, Business Intelligence, SQL, Python, Power BI, Tableau, and Machine Learning**.
+💡 I'm a **Data Analyst** passionate about transforming raw data into actionable insights that drive business growth and smarter decision-making.
 
-🏦 **CIB Summer Internship 2026** Participant.
+📊 Skilled in **Data Analytics, Business Intelligence, SQL, Python, Excel, Power BI, Power Query, Power Pivot, Data Visualization, and Data Modeling**.
 
-🎯 **Data Analyst Trainee** at **Digital Egypt Pioneers Initiative (DEPI)**.
+🎓 Studied **Business Information Systems (BIS)**, combining business knowledge with analytical and technical expertise to solve real-world challenges.
 
-📈 My goal is to build data-driven solutions that help organizations make smarter decisions.
+📈 I specialize in building interactive dashboards, automating reports, cleaning and transforming data, and uncovering insights that help organizations optimize performance.
+
+🌱 Continuously expanding my expertise in **Machine Learning, Microsoft Fabric, Advanced Analytics, and modern Business Intelligence technologies**.
+
+🎯 My mission is to help businesses transform data into measurable impact through accurate analysis, meaningful visualizations, and data-driven solutions.
 
 ---
 
