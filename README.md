@@ -1,48 +1,44 @@
 # <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Eyad+Muhammad;Data+Analyst+%7C+BI+Developer;Business+Information+Systems+Student;Turning+Data+Into+Business+Insights" />
+<img src="assets/banner.png" width="100%" alt="Eyad Muhammad Banner"/>
 
-</div>
+# Hi 👋 I'm Eyad Muhammad
 
-<div align="center">
+### **Data Analyst | Business Intelligence | Turning Data into Business Value**
 
-### 📊 Data Analyst • Business Intelligence • Data Visualization
+<p>
 
-<img src="https://komarev.com/ghpvc/?username=Ed-Mo1&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Ed-Mo1&label=Profile%20Views&style=for-the-badge&color=0E75B6"/>
 
-<a href="https://github.com/Ed-Mo1?tab=followers">
-<img src="https://img.shields.io/github/followers/Ed-Mo1?label=Followers&style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/github/followers/Ed-Mo1?style=for-the-badge"/>
 
-<a href="https://github.com/Ed-Mo1">
 <img src="https://img.shields.io/github/stars/Ed-Mo1?affiliations=OWNER&style=for-the-badge"/>
-</a>
+
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-## 🚀 About Me
+# 🚀 About Me
 
 💡 I'm a **Data Analyst** passionate about transforming raw data into actionable insights that drive business growth and smarter decision-making.
 
 📊 Skilled in **Data Analytics, Business Intelligence, SQL, Python, Excel, Power BI, Power Query, Power Pivot, Data Visualization, and Data Modeling**.
 
-🎓 Studied **Business Information Systems (BIS)**, combining business knowledge with analytical and technical expertise to solve real-world challenges.
+🎓 Studied **Business Information Systems (BIS)**, combining business knowledge with analytical thinking to solve real-world business challenges.
 
-📈 I specialize in building interactive dashboards, automating reports, cleaning and transforming data, and uncovering insights that help organizations optimize performance.
+📈 I specialize in building interactive dashboards, automating reports, designing efficient data models, and uncovering insights that help organizations optimize performance.
 
-🌱 Continuously expanding my expertise in **Machine Learning, Microsoft Fabric, Advanced Analytics, and modern Business Intelligence technologies**.
+🌱 Continuously expanding my expertise in **Machine Learning, Microsoft Fabric, Cloud Analytics, and Modern BI Technologies**.
 
-🎯 My mission is to help businesses transform data into measurable impact through accurate analysis, meaningful visualizations, and data-driven solutions.
+🎯 My mission is to transform complex data into clear, measurable business value.
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### 📊 Analytics & BI
 
 <p>
 
@@ -50,116 +46,168 @@
 
 </p>
 
-### Data Analytics
-
 <p>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-0F9D58?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Pivot-1565C0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Visualization-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business_Intelligence-283593?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Modeling-5E35B1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-<img src="https://img.shields.io/badge/Power_Query-2F5597?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
-
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+# 🚀 What I Do
 
-<p align="center">
+✔ Transform Raw Data into Business Insights
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ed-Mo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+✔ Design Executive & Interactive Dashboards
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed-Mo1&layout=compact&theme=tokyonight&hide_border=true"/>
+✔ Analyze Business Performance
 
-</p>
+✔ Build KPI Reporting Solutions
 
----
+✔ Clean & Transform Data (ETL)
 
-# 🔥 GitHub Streak
+✔ Develop Data Models
 
-<p align="center">
+✔ Automate Reports
 
-<img src="https://streak-stats.demolab.com?user=Ed-Mo1&theme=tokyonight&hide_border=true"/>
-
-</p>
+✔ Support Data-Driven Decision Making
 
 ---
 
-# 📊 Activity Graph
+# 💼 Services
 
-<p align="center">
+📊 Business Intelligence Dashboards
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ed-Mo1&theme=tokyo-night&hide_border=true"/>
+📈 Sales & Marketing Analytics
 
-</p>
+📉 KPI Reporting
+
+📦 Excel Automation
+
+⚡ Power Query Solutions
+
+🗄 SQL Database Analysis
+
+📊 Data Cleaning & Transformation
+
+📋 Business Reporting
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 Core Expertise
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ed-Mo1&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
+```text
+Business Intelligence     ███████████████████░ 95%
+Power BI                  ██████████████████░░ 90%
+Excel                     ██████████████████░░ 90%
+SQL                       ██████████████████░░ 90%
+Data Visualization        ██████████████████░░ 90%
+Power Query               █████████████████░░░ 88%
+Power Pivot               █████████████████░░░ 88%
+Python                    ███████████████░░░░░ 80%
+Machine Learning          ███████████░░░░░░░░░ 60%
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🎯 My Analytics Workflow
 
-### 📊 Sales Analysis Dashboard
+```text
+Business Problem
+        │
+        ▼
+Collect Data
+        │
+        ▼
+Clean & Transform
+        │
+        ▼
+Data Modeling
+        │
+        ▼
+Analysis
+        │
+        ▼
+Visualization
+        │
+        ▼
+Business Insights
+        │
+        ▼
+Decision Making
+```
 
-* Interactive Power BI dashboard
-* Business KPIs & DAX
-* Power Query ETL
-* Star Schema Data Model
+---
 
-### 📈 Tableau Business Dashboard
+# 📌 Featured Projects
 
-* Sales Performance Analysis
-* Regional Insights
-* Interactive Filters
+### 📊 Sales Performance Dashboard
 
-### 🐍 Python Data Analytics
+Interactive Power BI dashboard featuring executive KPIs, DAX measures, and a star schema data model for sales performance analysis.
 
-* Data Cleaning
-* Exploratory Data Analysis
-* Business Reporting
-* Pandas Automation
+### 📈 Business Intelligence Dashboard
+
+Comprehensive dashboard delivering actionable insights through advanced visualizations and performance metrics.
+
+### 🐍 Python Data Analysis
+
+Automated data cleaning, transformation, and exploratory analysis using Python and Pandas.
+
+### 📊 Excel Analytics
+
+Professional dashboards built with Power Query, Power Pivot, PivotTables, and advanced Excel formulas.
 
 ---
 
 # 🌱 Currently Learning
 
-* Machine Learning
-* Statistics for Data Science
-* Advanced SQL Optimization
-* Data Warehousing
 * Microsoft Fabric
-* Azure Data Fundamentals
+* Machine Learning
+* Advanced SQL Optimization
+* Cloud Data Analytics
+* Data Engineering Fundamentals
 
 ---
 
-# 📚 Certifications
+# 📈 GitHub Activity
 
-* 🎓 DEPI Data Analyst Specialist
-* 🏦 CIB Summer Internship 2026
-* 📖 Data Analytics & Business Intelligence Learning Journey
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ed-Mo1&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Ed-Mo1&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ed-Mo1&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🌎 Connect With Me
+# 🌍 Connect With Me
 
 <p align="left">
 
@@ -179,38 +227,10 @@
 
 ---
 
-# 💭 Favorite Quote
-
-> **"Without data, you're just another person with an opinion."**
-> — *W. Edwards Deming*
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ *"Transforming Data into Decisions, and Decisions into Business Success."*
 
-*"Turning Data into Decisions."*
+Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate on data-driven projects.
 
 </div>
-
-<!--
-
-Add this GitHub Action to enable the Contribution Snake:
-
-github/workflows/snake.yml
-
-Use:
-Platane/snk
-
-The generated file should be:
-
-dist/github-contribution-grid-snake.svg
-
-Then uncomment:
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Ed-Mo1/Ed-Mo1/output/github-contribution-grid-snake.svg"/>
-</p>
-
--->
