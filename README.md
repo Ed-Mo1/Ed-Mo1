@@ -159,11 +159,11 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/ed-mo1">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:eyadmuhammad90@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
