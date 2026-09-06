@@ -158,24 +158,43 @@ Decision Making
 ```
 
 ---
-
 # 📌 Featured Projects
 
-### 📊 Sales Performance Dashboard
+---
 
-Interactive Power BI dashboard featuring executive KPIs, DAX measures, and a star schema data model for sales performance analysis.
+### 📊 Customer Analytics Dashboard | Power BI
+🔗 **[View Repository](https://github.com/Ed-Mo1/Customer-Analytics-Dashboard-Power-BI)**
 
-### 📈 Business Intelligence Dashboard
+Interactive Power BI dashboard analyzing customer demographics, segmentation, and purchasing behaviors to generate targeted business insights.
+* **Tech Stack:** Power BI | Power Query | DAX | Data Modeling
+* **Key Features:** Customer Overview & Profile pages, dynamic slicing, income cross-analysis.
 
-Comprehensive dashboard delivering actionable insights through advanced visualizations and performance metrics.
+---
 
-### 🐍 Python Data Analysis
+### 📊 Sales Analytics Dashboard | Power BI
+🔗 **[View Repository](https://github.com/Ed-Mo1/Sales-Analytics-Dashboard-Power-BI)**
 
-Automated data cleaning, transformation, and exploratory analysis using Python and Pandas.
+Executive-level Power BI reporting solution tracking revenue metrics, sales trends, regional performance, and KPI targets.
+* **Tech Stack:** Power BI | DAX | Data Visualization | Star Schema
+* **Key Features:** Dynamic filtering, time-intelligence DAX measures, automated KPI tracking.
 
-### 📊 Excel Analytics
+---
 
-Professional dashboards built with Power Query, Power Pivot, PivotTables, and advanced Excel formulas.
+### ☕ Coffee Sales Analytics Dashboard
+🔗 **[View Repository](https://github.com/Ed-Mo1/Coffee-Sales-Analysis)**
+
+End-to-end data analysis project exploring product performance, order patterns, and customer trends for coffee sales operations.
+* **Tech Stack:** Data Analysis | Excel / Power BI | Data Wrangling
+* **Key Features:** Product profitability tracking, sales trends by region, order size analysis.
+
+---
+
+### 📊 Interactive Sales Dashboard | Microsoft Excel
+🔗 **[View Repository](https://github.com/Ed-Mo1/Interactive-Sales-Dashboard-Microsoft-Excel)**
+
+Dynamic Excel dashboard leveraging advanced modeling techniques to aggregate sales metrics and build interactive reports.
+* **Tech Stack:** Microsoft Excel | Power Query | Power Pivot | PivotTables & Charts
+* **Key Features:** Automated data transformation, custom KPIs, interactive slicers.
 
 ---
 
